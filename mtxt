@@ -1,0 +1,11 @@
+beakColor, age, sizeInFt, canEat, gender,animal
+yellow,10," "," ",male," ",duck,
+green,8," "," ",female," ",duck,
+brown,7," "," ",male," ",duck,
+blue,9," "," ",female," ",duck,
+brown,5," "," ",male," ",duck,
+" ",3,7,true,female,fish,
+" ",5,5,true,male,fish,
+" ",4,4,true,male,fish,
+" ",6,6,true,female,fish,
+" ",3,8,true,female,fish,
